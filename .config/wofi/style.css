@@ -1,0 +1,79 @@
+/* COLOURS */
+
+@import "/home/ethana/.cache/wal/colors-waybar.css";
+
+@define-color module-bg @background;
+@define-color tooltip-bg @background;
+@define-color inactive @color1;
+@define-color fg @foreground;
+@define-color workspace-fg @fg;
+
+@define-color red @color2;
+@define-color blue @color3;
+@define-color yellow @color4;
+@define-color green @color6;
+
+/* MAIN CSS */
+
+* {
+	font-family: 'JetBrains Mono Nerd Font';
+	border: none;
+	border-radius: 0;
+	min-height: 0;
+	margin: 0;
+	padding: 0;
+	text-shadow: none;
+}
+
+#waybar {
+	font-weight: 700;
+	background: transparent;
+	font-size: 14px;
+	border-radius: 15px;
+	color: @fg;
+	padding: 0 15px;
+}
+
+.modules-left {
+	margin-top: 7px;
+	margin-left: 14px;
+}
+.modules-centre {
+        margin-top:7px;
+}
+.modules-right {
+        margin-top: 7px;
+	margin-right: 14px;
+}
+
+
+#gright1, #gleft1, #gright2, #gleft2{
+	padding: 2px 18px;
+	border-radius: 15px;
+	background: @module-bg;
+}
+
+#clock{
+	margin-top: 7px;
+	padding: 2px 18px;
+	border-radius: 15px;
+	background: @module-bg;
+}
+
+#custom-ctlcentre{
+	padding: 2px 9px;
+	border-radius: 15px;
+	background: @module-bg;
+}
+
+#workspaces button{
+	color: @workspace-fg;
+	font-size: 14px;
+	border-radius: 15px;
+	margin: 0 7px;
+}
+
+#workspaces button:hover{
+	background: transparent;
+	color: transparent;
+}
