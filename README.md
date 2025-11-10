@@ -21,7 +21,6 @@ $ cp -r .config/* ~/.config/
 `~/.config/waybar/style.css`
 `~/.config/wofi/style.css`
 
-Feel free to edit the configs to your preference.
 
 
 # DEFAULT KEYBINDS 
