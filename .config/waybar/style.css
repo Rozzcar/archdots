@@ -47,23 +47,28 @@
 }
 
 
-#gright1, #gleft1, #gright2, #gleft2{
+#gright1, #gleft1, #gright2, #gleft2, #gright3 {
 	padding: 2px 18px;
 	border-radius: 15px;
 	background: @module-bg;
+	opacity: 0.8;
 }
 
 #clock{
 	margin-top: 7px;
+	margin-left: 5px;
+	margin-right: 5px;
 	padding: 2px 18px;
 	border-radius: 15px;
 	background: @module-bg;
+        opacity: 0.8;
 }
 
 #custom-ctlcentre{
 	padding: 2px 9px;
 	border-radius: 15px;
 	background: @module-bg;
+        opacity: 0.8;
 }
 
 #workspaces button{

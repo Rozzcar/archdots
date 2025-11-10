@@ -27,11 +27,31 @@
 	},
 
 	"hyprland/window": {
-		"max-length": 45
+		"max-length": 45,
 	},
 	
 	"clock": {
 		"timezone": "Europe/London",
+	},
+		
+	"battery": {
+		"interval": 20,
+        	"full-at": 100,
+        	"tooltip": true,
+        	"format-full": "",
+        	"format": "{icon} {capacity}%  ",
+        	"format-time": "{H}:{M:02}",
+        	"format-charging": " {capacity}% ({time})  ",
+        	"format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂂", "󰁹"],
+	},
+
+	"backlight": {
+		"scroll-step": 5,
+		"format": "{icon} {percent}  %",
+        	"tooltip-format" : "{percent}  %",
+        	"format": "{icon} {percent}%",
+        	"tooltip-format" : "{percent}%",
+        	"format-icons": ["","","","","","","","","","","","","","",""],
 	},
 
 	"wireplumber": {
