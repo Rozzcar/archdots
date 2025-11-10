@@ -1,8 +1,8 @@
 # INSTALLATION
 
 Install required dependencies:
-`$sudo pacman -S wofi waybar swww brightnessctl git
-yay -S python-pywal16`
+```$sudo pacman -S wofi waybar swww brightnessctl git
+$yay -S python-pywal16```
 
 Clone the repository:
 `git clone -b laptop-version https://github.com/Rozzcar/archdots
