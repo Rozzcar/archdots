@@ -1,4 +1,8 @@
+---
+
 ### INSTALLATION
+
+---
 
 1. Install required dependencies:
 ```
@@ -21,7 +25,11 @@ $ cp -r .config/* ~/.config/
 `~/.config/waybar/style.css`
 `~/.config/wofi/style.css`/
 
+---
+
 ### DEFAULT KEYBINDS 
+
+---
 
 `SUPER, RETURN = kitty`\
 `SUPER, 1-9 = workspaces`\
@@ -39,6 +47,8 @@ $ cp -r .config/* ~/.config/
 ---
 
 ### EDITING
+
+---
 
 Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.\
 Keybinds: Navigate to the keybinds.conf file 
