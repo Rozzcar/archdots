@@ -43,6 +43,6 @@ SUPER, F = fullscreen
 Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.
 Keybinds: Navigate to the keybinds.conf file 
 ```
-nano .config/hypr/configs/keybinds.conf
+nano ~/.config/hypr/configs/keybinds.conf
 ```
 and change the keybinds to your liking. You can also change the variables listed at the top with a `$` to change your default apps, such as browser or terminal
