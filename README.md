@@ -25,22 +25,22 @@ $ cp -r .config/* ~/.config/
 
 # DEFAULT KEYBINDS 
 
-SUPER, RETURN = kitty
-SUPER, 1-9 = workspaces
-SUPER, SHIFT, 1-9 = move windows to specified workspace
-SUPER, SHIFT, left/right = move windows across workspaces
-SUPER, ARROWKEYS = move focus 
-SUPER, R = randomise wallpaper
-SUPER, Q = kill active window
-SUPER, N = dolphin
-SUPER, O = zen-browser
-SUPER, M = exit hyprland
-SUPER, S = wofi 
-SUPER, F = fullscreen
+SUPER, RETURN = kitty\
+SUPER, 1-9 = workspaces\
+SUPER, SHIFT, 1-9 = move windows to specified workspace\
+SUPER, SHIFT, left/right = move windows across workspaces\
+SUPER, ARROWKEYS = move focus\
+SUPER, R = randomise wallpaper\
+SUPER, Q = kill active window\
+SUPER, N = dolphin\
+SUPER, O = zen-browser\
+SUPER, M = exit hyprland\
+SUPER, S = wofi\
+SUPER, F = fullscreen\
 
 # EDITING
 
-Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.
+Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.\
 Keybinds: Navigate to the keybinds.conf file 
 ```
 nano ~/.config/hypr/configs/keybinds.conf
