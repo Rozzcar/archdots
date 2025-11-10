@@ -8,7 +8,7 @@ $ yay -S python-pywal16
 
 2. Clone the repository:
 ```
-$ git clone -b main laptop https://github.com/Rozzcar/archdots
+$ git clone -b main https://github.com/Rozzcar/archdots
 $ cd archdots
 ```
 
