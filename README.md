@@ -36,6 +36,8 @@ $ cp -r .config/* ~/.config/
 `SUPER, S = wofi`\
 `SUPER, F = fullscreen`
 
+----------------------------------------------------
+
 ### EDITING
 
 Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.\
