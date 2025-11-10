@@ -36,7 +36,7 @@ $ cp -r .config/* ~/.config/
 `SUPER, S = wofi`\
 `SUPER, F = fullscreen`
 
-----------------------------------------------------
+---
 
 ### EDITING
 
