@@ -33,9 +33,16 @@
 			]
 		},
 
+	"group/gright3" : {
+		"orientation" : "horizontal",
+		"modules" : [
+			"battery", "backlight"
+			]
+		},
+
 	"modules-left": ["group/gleft1", "group/gleft2"],
 	"modules-center": ["clock"],
-	"modules-right": ["group/gright2", "group/gright1", "custom/ctlcentre"],   	
+	"modules-right": ["group/gright3", "group/gright2", "group/gright1", "custom/ctlcentre"],   	
 	
 	"include": [ "~/.config/waybar/modules.jsonc" ]
 }
