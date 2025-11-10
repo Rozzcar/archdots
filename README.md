@@ -34,7 +34,7 @@ $ cp -r .config/* ~/.config/
 `SUPER, O = zen-browser`\
 `SUPER, M = exit hyprland`\
 `SUPER, S = wofi`\
-`SUPER, F = fullscreen`\
+`SUPER, F = fullscreen`
 
 # EDITING
 
