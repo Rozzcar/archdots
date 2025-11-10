@@ -20,8 +20,7 @@ $ cp -r .config/* ~/.config/
 4. Edit the following config files to include your user instead of ethana
 `~/.config/waybar/style.css`
 `~/.config/wofi/style.css`/
-\
-\
+
 # DEFAULT KEYBINDS 
 
 `SUPER, RETURN = kitty`\
@@ -36,8 +35,7 @@ $ cp -r .config/* ~/.config/
 `SUPER, M = exit hyprland`\
 `SUPER, S = wofi`\
 `SUPER, F = fullscreen`\
-\
-\
+
 # EDITING
 
 Wallpapers: Add wallpapers to .config/wallpapers to be able to set it as that.\
