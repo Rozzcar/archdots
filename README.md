@@ -43,4 +43,5 @@ Keybinds: Navigate to the keybinds.conf file
 ```
 nano ~/.config/hypr/configs/keybinds.conf
 ```
-and change the keybinds to your liking. You can also change the variables listed at the top with a `$` to change your default apps, such as browser or terminal
+and change the keybinds to your liking./
+You can also change the variables listed at the top marked with `$` to change your default apps, such as browser or terminal.  
