@@ -25,7 +25,7 @@ $ cp -r .config/* ~/.config/
 
 # DEFAULT KEYBINDS 
 
-SUPER, RETURN = kitty\
+`SUPER, RETURN = kitty\
 SUPER, 1-9 = workspaces\
 SUPER, SHIFT, 1-9 = move windows to specified workspace\
 SUPER, SHIFT, left/right = move windows across workspaces\
@@ -36,7 +36,7 @@ SUPER, N = dolphin\
 SUPER, O = zen-browser\
 SUPER, M = exit hyprland\
 SUPER, S = wofi\
-SUPER, F = fullscreen\
+SUPER, F = fullscreen\`
 
 # EDITING
 
